@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thiago</h1>
-<h3 align="center">Computer Science major from Brazil</h3>
+<h3 align="center"></h3>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **thiagobelem@alunos.utfpr.edu.br**
 
